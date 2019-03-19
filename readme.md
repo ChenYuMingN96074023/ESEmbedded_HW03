@@ -54,3 +54,10 @@ This is the hw03 sample. Please follow the steps below.
 --------------------
 
 **★★★ Please take your note here ★★★**
+i onle write a c file to return function back to reset_handler(),
+and then use QEMU&GDB to watch assembly code,
+but i don't understand what the assembly code doing.
+
+ps:after git clone this ,my first job is to remove the 
+"volunteer to give the presentation"tick XDDD
+
